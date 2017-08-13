@@ -9,6 +9,8 @@ This Android app plays audio ring tones as notifications whenever the Internet c
 To build the app, execute the following command to download the source code.
 
   git clone https://github.com/vsubhash/netcheck-android.git
+  
+To install the app, either use Android SDK or copy the NetCheck.apk to the memory card or the internal storage of your Android phone and launch the file. You may have to enable installation from "Settings - Apps - Unknown Sources". Remember to disable the setting after installation.
 
 
 
